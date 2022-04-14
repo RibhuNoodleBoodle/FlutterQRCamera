@@ -1,0 +1,26 @@
+name: mobile_scanner_example
+description: Demonstrates how to use the mobile_scanner plugin.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  image_picker: ^0.8.4+9
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^1.0.0
+  scan: ^1.6.0
+  qr_code_tools: ^0.0.7
+  google_ml_kit: ^0.7.3
+  permission_handler: ^9.2.0
+  images_picker: ^1.2.11
+  fluttertoast: ^8.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+
+flutter:
+  uses-material-design: true
