@@ -1,6 +1,6 @@
-# mobile_scanner_example
+# QR Camera
 
-Demonstrates how to use the mobile_scanner plugin.
+Has the ability to scan QR Camera from camera and from gallery
 
 ## Getting Started
 
