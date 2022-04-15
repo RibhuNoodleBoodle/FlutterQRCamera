@@ -1,6 +1,6 @@
 # QR Camera
 
-Has the ability to scan QR Camera from camera and from gallery
+Has the ability to scan QR from camera and from gallery
 
 ## Getting Started
 
